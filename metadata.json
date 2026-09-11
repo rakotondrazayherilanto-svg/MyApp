@@ -1,0 +1,6 @@
+{
+  "name": "LP3F",
+  "description": "Application de gestion pour le Lycée Privée FJKM Fenoarivobe Fahasoavana: écolages en Ariary (Ar), élèves, enseignants, emploi du temps, notes, matières et présences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
